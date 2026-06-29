@@ -3,6 +3,8 @@ public class Main {
         System.out.println("***************");
         System.out.println("* JAVA PROJECT *");
         System.out.println("***************");
+        System.out.println("Proyecto listo en develop");
+        System.out.println("Cambio minimo aplicado");
 
         Saludo saludo = new Saludo();
         
